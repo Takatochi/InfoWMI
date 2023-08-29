@@ -1,0 +1,3 @@
+﻿  WMICDESC.cpp
+WMICDESC.obj : error LNK2019: unresolved external symbol "void __cdecl _com_issue_error(long)" (?_com_issue_error@@YAXJ@Z) referenced in function "public: __cdecl _bstr_t::Data_t::Data_t(wchar_t const *)" (??0Data_t@_bstr_t@@QEAA@PEB_W@Z)
+C:\Users\Takatochi\source\repos\WMICDESC\x64\Debug\WMICDESC.exe : fatal error LNK1120: 1 unresolved externals
